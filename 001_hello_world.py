@@ -1,1 +1,1 @@
-print("Bu bir denemedir.")
+print("Hello worldz.")
